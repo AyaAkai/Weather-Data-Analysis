@@ -41,6 +41,11 @@ Here are some of the insights I discovered:
 1. Clone the repository:
    ```bash
    git clone https://github.com/AyaAkai/Weather-Data-Analysis.git
+2. Navigate to the project directory:
+   cd Weather-Data-Analysis
+3. Ensure you have Python installed, along with Pandas:
+   pip install pandas
+
 
    Contact
 If you have any questions or suggestions, feel free to connect with me on LinkedIn or open an issue in this repository.
